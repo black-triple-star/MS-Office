@@ -15,7 +15,10 @@ AutoBackUp
 BackUp
 .svn
 *.un~
+*.swo
 *.swp
+*.swn
+
 
 
 FP_Kakeibo\AutoBackUp
